@@ -1,6 +1,6 @@
 # LG G8 Mini Guide
 ## Introduction \*and mini rant\*
-So, you might've bought this phone because it's supposedly still a great phone in 2022 or thinking it's the cheapest option for getting a hands-on Snapdragon 855? Well, after reading this section, you might want to reevaluate your life decision from now on.
+So, you might've bought this phone because it's supposedly still a great phone in 2022 or thinking it's the cheapest option for getting your hands on Snapdragon 855? Well, after reading this section, you might want to reevaluate your life decision from now on.
 
 Compared to other Snapdragon 855 phones. It falls flat on many aspects from god knows when new software updates come out, having one of the worst community support, mediocre screen nowadays \*mine has horrible purple smear\* to **actual fisher price parts and soc binning.**
 
