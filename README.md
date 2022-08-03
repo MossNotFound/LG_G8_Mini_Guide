@@ -19,11 +19,15 @@ Here's a short breakdown between the two.
 Now that you've decided let's get to work!.
 
 ## Clean flash your Firmware/Rom
-I know what you're thinking but trust me it's worth the hassle
+I know what you're thinking but trust me it's worth the hassle.
 
 ### For Stock:
 Source: - https://forum.xda-developers.com/t/guide-lg-g8-g8x-v50-bootloader-unlock-and-magisk-root-using-firehose.4221793/<br />
 &emsp;&emsp;&emsp;&ensp;- https://forum.xda-developers.com/t/tutorial-crossflash-bypass-opid-mismatched-error.4345963/
 
-1. Get the Required Files
-2. Extract and Install every in Tools folder
+**1. Seting up Prerequisite**
+  - Download LGTools.7z
+  - Extract and Install everything in QFIL&Drivers
+  - Install LGUP_Lab_Frame in LGUP
+  
+WIP.....
